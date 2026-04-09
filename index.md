@@ -6,7 +6,7 @@ nav_order: 1
 
 # Bem-vindo ao NetSec Lab Notes 🚀
 
-Este espaço foi criado para ser o meu **Portal de Documentação Técnica** e laboratórios práticos. Aqui, irei registrar os desafios do dia a dia e os estudos de novas tecnologias em guias estruturados e revisáveis.
+Este espaço foi criado para ser o meu **Portal de Documentação Técnica** e laboratórios práticos. Aqui, irei registrar alguns desafios do dia a dia e os estudos de novas tecnologias em guias estruturados e revisáveis.
 
 ---
 
