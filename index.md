@@ -13,7 +13,8 @@ Este espaço foi criado para ser o meu **Portal de Documentação Técnica** e l
 ## Sobre o Autor
 Sou especialista em Redes e Segurança.
 * **Formação:** Graduado em Redes de Computadores com Pós-graduação em Segurança de Redes.
-* **Certificações:**  CCNA | PCNSA | MTCNA | NSE 4
+* **Certificações:** 
+CCNA | PCNSA | MTCNA | NSE 4
 * **Experiência:** Com mais de 5 anos de atuação no mercado, acumulo bagagem desde a infraestrutura de Provedores de Internet (ISPs) até o suporte especializado em firewalls de próxima geração (NGFW) em integradoras. Atualmente, meu foco principal é o ecossistema **Palo Alto Networks**.
 
 ---
