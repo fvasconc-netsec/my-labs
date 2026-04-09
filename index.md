@@ -14,7 +14,7 @@ Este espaço foi criado para ser o meu **Portal de Documentação Técnica** e l
 
 * **Formação:** Graduado em Redes de Computadores com Pós-graduação em Segurança de Redes.
 * **Certificações:** 
-CCNA | PCNSA | MTCNA | NSE 4
+CCNA | PCNSA | NSE4 | MTCNA
 * **Experiência:** Com mais de 5 anos de atuação no mercado, acumulo bagagem desde a infraestrutura de Provedores de Internet (ISPs) até o suporte especializado em firewalls de próxima geração (NGFW) em integradoras. Atualmente, meu foco principal é o ecossistema **Palo Alto Networks**.
 
 ---
