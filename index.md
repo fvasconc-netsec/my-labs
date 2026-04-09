@@ -22,9 +22,7 @@ CCNA | PCNSA | NSE4 | MTCNA
 ## O Intuito deste Projeto
 A área de tecnologia exige atualização constante. Este site nasce da necessidade de:
 
-1.  **Documentar Prática:** Registrar laboratórios realizados no **PNETLab**, desde configurações de roteamento Cisco até políticas granulares de segurança no Palo Alto.
-2.  **Troubleshooting Real:** Compartilhar soluções para problemas que surgem no campo, transformando "vulnerabilidades" de conhecimento em documentação técnica.
-3.  **Comunidade:** Oferecer um ponto de consulta para amigos e colegas de profissão, mantendo o conhecimento dinâmico e acessível.
+Utilizo o ambiente **PNETLab** para emular cenários reais e testar novas funcionalidades. O intuito deste projeto é documentar de forma estruturada os laboratórios que realizo, focando na implementação de políticas granulares de segurança e configurações avançadas em firewalls Palo Alto. Além disso, busco registrar soluções de troubleshooting para problemas reais que surgem no campo, transformando desafios do dia a dia em documentação técnica para consulta. Com isso, espero oferecer um ponto de apoio dinâmico e acessível para amigos e colegas de profissão, mantendo o conhecimento em constante atualização.
 
 ---
 
