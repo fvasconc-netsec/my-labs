@@ -6,7 +6,7 @@ nav_order: 1
 
 # Bem-vindo ao NetSec Lab Notes 🚀
 
-Este espaço foi criado para ser o meu **Portal de Documentação Técnica** e laboratórios práticos. Aqui, transformo os desafios do dia a dia e os estudos de novas tecnologias em guias estruturados e revisáveis.
+Este espaço foi criado para ser o meu **Portal de Documentação Técnica** e laboratórios práticos. Aqui, irei registrar os desafios do dia a dia e os estudos de novas tecnologias em guias estruturados e revisáveis.
 
 ---
 
@@ -14,7 +14,8 @@ Este espaço foi criado para ser o meu **Portal de Documentação Técnica** e l
 Meu nome é **Felipe**, sou especialista em Redes e Segurança. Minha trajetória é focada em transformar topologias complexas em soluções resilientes.
 
 * **Formação:** Graduado em Redes de Computadores com Pós-graduação em Segurança de Redes.
-* **Certificações:** CCNA | PCNSA | MTCNA | NSE 4.
+* **Certificações:** 
+CCNA | PCNSA | MTCNA | NSE 4
 * **Experiência:** Com mais de 5 anos de atuação no mercado, acumulo bagagem desde a infraestrutura de Provedores de Internet (ISPs) até o suporte especializado em firewalls de próxima geração (NGFW) em integradoras. Atualmente, meu foco principal é o ecossistema **Palo Alto Networks**.
 
 ---
